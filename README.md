@@ -70,7 +70,6 @@ cd VehicleTrajectoryExtractor
 2. Install dependencies:
 
 ```bash
-Copy code
 pip install -r requirements.txt
 Place your input video file (video.mp4) in the data/input/ directory.
 ```
@@ -88,7 +87,7 @@ python src/main.py
 6. View the results in the results/ directory.
 
 ## Future Improvements
-* Improve Accuracy: Improve the accuracy of the model for Indian road by expanding the data set with more number of images and more variety of Indian vehicles.
+* Improve Accuracy: Improve the accuracy of the model for Indian roads by expanding the data set with more number of images and more variety of Indian vehicles.
 
 * Semantic Segmentation: Enhance vehicle segregation by incorporating semantic segmentation techniques to classify vehicles more accurately.
 
